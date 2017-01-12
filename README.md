@@ -1,0 +1,2 @@
+# GitSample
+Flavinak soxeretettel
