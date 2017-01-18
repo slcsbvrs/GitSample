@@ -19,6 +19,8 @@ namespace Sample1
             Console.WriteLine("Calc commit");
             Console.WriteLine("Mondom Calc commit");
             Console.WriteLine("Tobbszor ne mondjam h Calc commit");
+
+            Console.WriteLine("Calc");
         }
     }
 }
