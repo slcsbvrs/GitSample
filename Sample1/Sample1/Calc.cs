@@ -23,5 +23,9 @@ namespace Sample1
         public void DivD()
         {
         }
+
+        public void Mult()
+        {
+        }
     }
 }
