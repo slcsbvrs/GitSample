@@ -15,9 +15,5 @@ namespace Sample1
         void Div()
         {
         }
-
-        void DivB()
-        {
-        }
     }
 }
