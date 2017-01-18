@@ -10,8 +10,8 @@ namespace Sample1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Calc44Calc44Calc44");
-            Console.WriteLine("Including already CalcCalcCalc as well");
+            Console.WriteLine("CalcCalcCalc");
+            Console.WriteLine("Including already Calc44Calc44Calc44 as well");
         }
     }
 }
