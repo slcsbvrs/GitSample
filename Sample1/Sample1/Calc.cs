@@ -23,5 +23,9 @@ namespace Sample1
         void DivD()
         {
         }
+
+        void DivByZero()
+        {
+        }
     }
 }
