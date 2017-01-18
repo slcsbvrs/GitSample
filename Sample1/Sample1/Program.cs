@@ -14,8 +14,7 @@ namespace Sample1
             Console.WriteLine("2nd hello");
             Console.WriteLine("3rd hello");
 
-            Console.WriteLine("Calc commit");
-            Console.WriteLine("Mondom Calc commit");
+            Console.WriteLine("Calc33 commit");
         }
     }
 }
