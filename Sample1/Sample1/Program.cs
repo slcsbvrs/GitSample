@@ -11,6 +11,7 @@ namespace Sample1
         static void Main(string[] args)
         {
             Console.WriteLine("Calc44Calc44Calc44");
+            Console.WriteLine("Including already CalcCalcCalc as well");
         }
     }
 }
